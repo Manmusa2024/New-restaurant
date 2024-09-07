@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color:red
+}
+
+.contact-form p {
+    background-color: blue;
+}
